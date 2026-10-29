@@ -1,0 +1,8 @@
+streamlit
+anthropic
+requests
+beautifulsoup4
+reportlab
+pypdf
+python-docx
+openai
